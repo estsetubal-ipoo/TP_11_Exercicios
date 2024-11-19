@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-public class LotteryProgram {
+public class ProgramLottery {
     public static void main(String[] args) {
         Random rand = new Random();
 
